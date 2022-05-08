@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SeanGao-119
-- 👀 I’m interested in f**king
-- 🌱 I’m currently learning mling
+- 👋 Hi, I’m SeanGao
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate today
-- 📫 How to reach me 1173293750@qq.com
+- 📫 How to reach me therinkao@gmail.com
 
 <!---
 SeanGao-119/SeanGao-119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
