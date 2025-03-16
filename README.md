@@ -1,6 +1,6 @@
-- 👋 Hi, I’m SeanGao
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Sean Gao
+- 👀 I’m experted in Python and SQL
+- 🌱 I’m currently learning Hadoop
 - 💞️ I’m looking to collaborate today
 - 📫 How to reach me therinkao@gmail.com
 
